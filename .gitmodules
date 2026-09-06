@@ -1,0 +1,3 @@
+[submodule "Watchlist_API_Server"]
+	path = Watchlist_API_Server
+	url = https://github.com/alsoAD09/Watchlist_API_Server.git
