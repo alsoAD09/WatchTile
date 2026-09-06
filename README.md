@@ -16,6 +16,9 @@
 
 Powered by the **`openai/gpt-oss-20b`** model on Groq, WatchTile automatically detects and highlights **"Meaningful Shifts Since Your Last Visit"**, providing instant, human-readable explanations of price variations, P&L impact, and volume movements whenever you revisit a stock. Furthermore, it incorporates a deterministic technical analysis engine to automatically scan and predict classic Japanese candlestick patterns across multiple stocks in real time.
 
+[Click here to view the live website](https://watchtile.vercel.app/)
+>   The API server may occasionally go down because it is hosted on Render. 
+
 ---
 
 ## 📸 Screenshots
